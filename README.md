@@ -1,16 +1,13 @@
-### UCI Undergraduate Student!!! 👋
+<h1 align="center"> Hey 👋,  I'm Houssin Saadeh!!! </h1>
 
-<!--
-**HoussinSa/HoussinSa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate **Computer Science student** specializing in **Intelligent Systems** at the **University of California, Irvine (UCI)**. I have a strong drive for learning, building, and collaborating on innovative projects that push the boundaries of technology.
 
-Here are some ideas to get you started:
+### 🎓 What I’m Up To:
+- 🧠 Specializing in **Intelligent Systems** at UCI  
+- 🤝 Actively involved in multiple **ICS student clubs** to expand my knowledge and network  
+- 💻 **Always building** creative coding solutions and exploring new technologies  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Let's Connect!
+Feel free to reach out via <a href="mailto:houssin.saadeh@yahoo.com" target="_blank">my email</a>! — I'm always happy to collaborate, chat, or help with interesting projects!  
+
